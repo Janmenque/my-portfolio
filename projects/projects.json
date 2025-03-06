@@ -1,8 +1,8 @@
 [
   {
-    "name": "ZPPSU ID SYSTEN",
+    "name": "ZPPSU ID SYSTEM",
     "desc": "The ZPPSU ID System is a secure and efficient identification management system for Zamboanga Peninsula Polytechnic State University (ZPPSU).",
-    "image_path": "https://drive.google.com/file/d/1RFGTEx1GmpsAQfNSxUPb-D7YfM7H71V0/view?usp=sharing",
+    "image_url": "./assets/images/projects/Project1.png",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -12,7 +12,7 @@
   {
     "name": "Immersion System",
     "desc": "The Senior High School Immersion System is a web-based application designed to manage and streamline the work immersion program for senior high school students.",
-    "image_path": "sppuprepandroid",
+    "image_url": "./assets/images/projects/Project2.png",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -20,9 +20,9 @@
     }
   },
   {
-    "name": "Zc Multi-Catering Web-App",
+    "name": "ZC Multi-Catering Web-App",
     "desc": "The ZC Multi-Catering Web App is a dynamic and user-friendly platform designed to streamline catering services, bookings, and order management.",
-    "image_path": "newsboxandroid",
+    "image_url": "./assets/images/projects/Project3.png",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -30,9 +30,9 @@
     }
   },
   {
-    "name": "ZPPSU- Admission System",
+    "name": "ZPPSU Admission System",
     "desc": "The ZPPSU Admission System is a web-based application designed to streamline the student admission process for Zamboanga Peninsula Polytechnic State University (ZPPSU).",
-    "image_path": "weatherlyandroid",
+    "image_url": "./assets/images/projects/Project4.png",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -40,9 +40,9 @@
     }
   },
   {
-    "name": "Health Care -Profiling System",
+    "name": "Health Care Profiling System",
     "desc": "The Health Care Profiling System is a web-based application designed to efficiently manage and maintain patient records, medical history, and health assessments.",
-    "image_path": "instagrammern",
+    "image_url": "./assets/images/projects/Project5.png",
     "category": "basicweb",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
@@ -50,9 +50,9 @@
     }
   },
   {
-    "name": "ZC-Digital Marketing  Learning System | with Mobile App",
+    "name": "ZC-Digital Marketing Learning System | with Mobile App",
     "desc": "ZC-Digital Marketing Learning System is an interactive platform that teaches essential digital marketing skills, including SEO, social media, PPC, email marketing, and analytics. With expert-led courses, real-world case studies, and hands-on exercises, it offers practical learning and AI-driven insights. Ideal for students, professionals, and entrepreneurs, ZC helps users stay competitive and advance their careers.",
-    "image_path": "flipkartmern",
+    "image_url": "./assets/images/projects/Project6.png",
     "category": "basicweb",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
