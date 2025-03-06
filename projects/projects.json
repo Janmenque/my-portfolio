@@ -2,7 +2,7 @@
   {
     "name": "ZPPSU ID SYSTEN",
     "desc": "The ZPPSU ID System is a secure and efficient identification management system for Zamboanga Peninsula Polytechnic State University (ZPPSU).",
-    "image": "./assets/images/projects/Project1.png",
+    "image_path": "./assets/images/projects/Project1.png",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -12,7 +12,7 @@
   {
     "name": "Immersion System",
     "desc": "The Senior High School Immersion System is a web-based application designed to manage and streamline the work immersion program for senior high school students.",
-    "image": "sppuprepandroid",
+    "image_path": "sppuprepandroid",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -22,7 +22,7 @@
   {
     "name": "Zc Multi-Catering Web-App",
     "desc": "The ZC Multi-Catering Web App is a dynamic and user-friendly platform designed to streamline catering services, bookings, and order management.",
-    "image": "newsboxandroid",
+    "image_path": "newsboxandroid",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -32,7 +32,7 @@
   {
     "name": "ZPPSU- Admission System",
     "desc": "The ZPPSU Admission System is a web-based application designed to streamline the student admission process for Zamboanga Peninsula Polytechnic State University (ZPPSU).",
-    "image": "weatherlyandroid",
+    "image_path": "weatherlyandroid",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -42,7 +42,7 @@
   {
     "name": "Health Care -Profiling System",
     "desc": "The Health Care Profiling System is a web-based application designed to efficiently manage and maintain patient records, medical history, and health assessments.",
-    "image": "instagrammern",
+    "image_path": "instagrammern",
     "category": "basicweb",
     "links": {
       "view": "https://instagramernstack.herokuapp.com/",
@@ -52,7 +52,7 @@
   {
     "name": "ZC-Digital Marketing  Learning System | with Mobile App",
     "desc": "ZC-Digital Marketing Learning System is an interactive platform that teaches essential digital marketing skills, including SEO, social media, PPC, email marketing, and analytics. With expert-led courses, real-world case studies, and hands-on exercises, it offers practical learning and AI-driven insights. Ideal for students, professionals, and entrepreneurs, ZC helps users stay competitive and advance their careers.",
-    "image": "flipkartmern",
+    "image_path": "flipkartmern",
     "category": "basicweb",
     "links": {
       "view": "https://flipkartwebs.herokuapp.com/",
