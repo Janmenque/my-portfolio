@@ -2,17 +2,17 @@
   {
     "name": "ZPPSU ID SYSTEN",
     "desc": "The ZPPSU ID System is a secure and efficient identification management system for Zamboanga Peninsula Polytechnic State University (ZPPSU), developed using Cogniter for the front-end, PHP for the backend, and MySQL for database management. It streamlines student and faculty ID issuance, verification, and record-keeping, ensuring accurate and accessible identity management within the university.",
-    "image": "notystackandroid",
+    "image": "./assets/images/projects/Project1.png",
     "category": "basicweb",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "./assets/images/projects/Project1.png",
       "code": "https://github.com/jigar-sable/notystack-android"
     }
   },
   {
     "name": "Immersion System",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
+    "desc": "The Senior High School Immersion System is a web-based application designed to manage and streamline the work immersion program for senior high school students.",
+    "image": "./assets/images/projects/Project2.png",
     "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
