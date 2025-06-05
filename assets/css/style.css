@@ -60,19 +60,22 @@ html::-webkit-scrollbar-thumb {
 
 .preview-button {
   display: inline-block;
-  margin-top: 5px;
-  padding: 5px 5px;
+  margin-top: 15px;
+  padding: 6px 12px; /* Smaller padding */
   background-color: #007acc;
   color: white;
   text-decoration: none;
-  border-radius: 5px;
-  font-weight: bold;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
   transition: background-color 0.3s;
+  white-space: nowrap; /* Prevents the text from wrapping */
 }
 
 .preview-button:hover {
   background-color: #005fa3;
 }
+
 
 
 /* navbar starts */
