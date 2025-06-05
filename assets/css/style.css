@@ -60,8 +60,8 @@ html::-webkit-scrollbar-thumb {
 
 .preview-button {
   display: inline-block;
-  margin-top: 15px;
-  padding: 10px 10px;
+  margin-top: 5px;
+  padding: 5px 5px;
   background-color: #007acc;
   color: white;
   text-decoration: none;
