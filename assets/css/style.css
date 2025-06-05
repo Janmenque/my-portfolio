@@ -58,6 +58,23 @@ html::-webkit-scrollbar-thumb {
 }
 /* pre loader end */
 
+.preview-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 16px;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.preview-button:hover {
+  background-color: #005fa3;
+}
+
+
 /* navbar starts */
 header {
   position: fixed;
